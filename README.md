@@ -83,6 +83,18 @@ Users can filter the dashboard by:
 Visuals respond dynamically through Power BI's cross-filtering functionality.
 
 ---
+## Data Source
+
+The project started with a global air pollution dataset (`global_air_pollution_data(1).csv`) containing ~23,463 city-level air quality records across 175 countries. Fields include:
+
+- Country and city identifiers
+- Overall AQI value and category
+- CO AQI value and category
+- Ozone AQI value and category
+- NO2 AQI value and category
+- PM2.5 AQI value and category
+
+---
 
 ## Data Preparation
 
